@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Student in Trondheim at NTNU 
 - 🔭 Studying Bachelor of Engineering in Computer Science
 - 📫 How to reach me tomaber@stud.ntnu.no
-- 📫 My personal profile(CV) can be found in the file below
+- 📫 My personal profile(CV) can be found in the attached File
 - ⚡ Fun fact: I know Three different Languages
 
 <!---
