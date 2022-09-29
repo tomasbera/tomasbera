@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomas Beranek
+- 👋 Hello I'm Tomas Beranek
 - 👀 I’m interested in learning C and C++
 - 🌱 I’m currently a Student in Trondheim at NTNU 
 - 🔭 Studying Bachelor of Engineering in Computer Science
