@@ -14,6 +14,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://skillicons.dev/icons?i=java,mysql,python,flutter,firebase,vue,javascript,git,cpp,html" alt="Languages I know: Java, JavaScript, Vue, MySQL, Flutter, Firebase, Python, Git, C++ and HTML5" width=75%>
+<!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
@@ -23,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-</div>
+</div>-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomasbera&theme=dark&background=000000)](https://git.io/streak-stats)
 
