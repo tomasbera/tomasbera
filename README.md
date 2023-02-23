@@ -14,7 +14,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://skillicons.dev/icons?i=java,mysql,python,flutter,firebase,vue,javascript,git,cpp,html" alt="Languages I know: Java, JavaScript, Vue, MySQL, Flutter, Firebase, Python, Git, C++ and HTML5" width=75%>
+  <img src="https://skillicons.dev/icons?i=java,mysql,flutter,firebase,vue,javascript,git,cpp,html" alt="Languages I know: Java, JavaScript, Vue, MySQL, Flutter, Firebase, Git, C++ and HTML5" width=75%>
 <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
