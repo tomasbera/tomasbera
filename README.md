@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hello I'm Tomas Beranek
-- 👀 I’m interested in learning C and C++
+- 👀 I’m interested in learning C++
 - 🌱 I’m currently a Student in Trondheim at NTNU 
 - 🔭 Studying Bachelor of Engineering in Computer Science
 - 📫 How to reach me tomaber@stud.ntnu.no
