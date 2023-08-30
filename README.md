@@ -21,7 +21,7 @@
 [![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbera&hide=stars&show_icons=true&theme=tokyonight)]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbera&layout=compact&theme=vision-friendly-dark&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbera&layout=compact&theme=vision-friendly-dark&hide=makefile,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
