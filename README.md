@@ -14,7 +14,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://skillicons.dev/icons?i=java,mysql,flutter,firebase,vue,javascript,git,cpp,html" alt="Languages I know: Java, JavaScript, Vue, MySQL, Flutter, Firebase, Git, C++ and HTML5" width=75%>
+  <img src="https://skillicons.dev/icons?i=java,mysql,flutter,vue,javascript,git,cpp,html" alt="Languages I know: Java, JavaScript, Vue, MySQL, Flutter, Firebase, Git, C++ and HTML5" width=75%>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomasbera&theme=dark&background=000000)](https://git.io/streak-stats)
 
