@@ -3,9 +3,9 @@
 </div>
 
 - 👋 Hello I'm Tomas Beranek
-- 👀 I’m curretly learning C++
+- 👀 I’m curretly learning Bioinformatics
 - 🌱 I’m currently a Student in Trondheim at NTNU 
-- 🔭 Studying Bachelor of Engineering in Computer Science
+- 🔭 Studying McS in Computer Science
 - 📫 How to reach me tomaber@stud.ntnu.no
 - 📫 My personal profile(CV) can be found in the attached File
 - ⚡ Fun fact: I am trilingual 
